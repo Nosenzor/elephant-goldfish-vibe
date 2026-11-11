@@ -1,0 +1,10 @@
+Elephant-Goldfish Model for Vibe
+Copyright Mistral AI.
+
+Ported from the Elephant-Goldfish Model (EGM),
+Copyright Google LLC, https://github.com/google/elephant-goldfish-model
+Licensed under the Apache License, Version 2.0.
+
+Includes adapted material from the upstream EGM repository (skills, reviewer
+personas, and document standards), used under the Apache License 2.0.
+Original design: Dave Rensin, Jim Quinn, Elise Ewing, and the EGM contributors.

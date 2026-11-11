@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "egm",
+  "version": "1.0.0",
+  "description": "Elephant-Goldfish Model for Vibe: develop ideas with full project context (the Elephant) and review documents with fresh-context subagents (the Goldfish) to catch hallucinations and blind spots.",
+  "author": {
+    "name": "Mistral AI (port of Google's Elephant-Goldfish Model)"
+  },
+  "homepage": "https://github.com/google/elephant-goldfish-model",
+  "repository": "https://github.com/google/elephant-goldfish-model",
+  "license": "Apache-2.0",
+  "keywords": [
+    "review",
+    "design",
+    "spec-driven-development",
+    "goldfish",
+    "elephant"
+  ],
+  "extensions": {
+    "ai.mistral.vibe": {
+      "schemaVersion": 1,
+      "displayName": "Elephant-Goldfish Model",
+      "toolNamespace": "egm"
+    }
+  }
+}
